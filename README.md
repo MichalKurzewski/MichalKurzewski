@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MichalKurzewski
+- 👋 Hi, I’m @lithion
 # https://codeng.co.uk
 
 <!---
